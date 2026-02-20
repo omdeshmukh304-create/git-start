@@ -1,3 +1,13 @@
-This is my read me file to read me
+# DevOps NGINX Demo
 
-it is speaciaal file discripe all
+## Intro
+
+This project helps you install nginx on linux and then show a demo page
+
+## Steps
+
+sudo apt-get update
+sudo apt install nginx
+
+sudo systemctl start nginx
+sudo systemctl enable nginx
